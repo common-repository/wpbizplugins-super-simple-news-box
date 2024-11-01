@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBizPlugins Super Simple News Box\n"
+"POT-Creation-Date: 2014-06-05 11:50+0100\n"
+"PO-Revision-Date: 2014-06-05 11:51+0100\n"
+"Last-Translator: Gabriel Nordeborn <gabriel@wpbizplugins.com>\n"
+"Language-Team: WPBizPlugins <gabriel@wpbizplugins.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/redux-config.php:159
+msgid "Main configuration"
+msgstr "Huvudkonfiguration"
+
+#: inc/redux-config.php:160
+msgid ""
+"Configure the Super Simple News Box. Please contact <a href=\"mailto:"
+"support@wpbizplugins.com\">support@wpbizplugins.com</a> if you need further "
+"assistance."
+msgstr ""
+"Konfigurera Super Simple News Box här. Har du frågor är du välkommen att "
+"kontakta <a href=\"mailto:support@wpbizplugins.com\">support@wpbizplugins."
+"com</a>."
+
+#: inc/redux-config.php:173
+msgid "Introductory text"
+msgstr "Introduktionstext"
+
+#: inc/redux-config.php:174
+msgid ""
+"Explanatory and introductory text in the dashboard widget, shown together "
+"with the editor for the newsbox."
+msgstr ""
+"Förklarande och introducerande text i widgeten på kontrollpanelen. Visas "
+"tillsammans med redigeraren för nyhetsboxen."
+
+#: inc/redux-config.php:175
+msgid ""
+"You can edit the contents of your news box here. <strong>The news box will "
+"be hidden if you leave the content empty</strong>."
+msgstr ""
+"Du kan redigera innehållet i din nyhetsbox här under. <strong>Nyhetsboxen "
+"kommer att döljas om innehållet är tomt</strong>."
+
+#: inc/redux-config.php:185
+msgid "Headline level"
+msgstr "Nivå på rubrik"
+
+#: inc/redux-config.php:186
+msgid ""
+"Control the level of the headline for the news box. Smaller means bigger "
+"headline."
+msgstr ""
+"Kontrollera nivån på rubriken i nyhetsboxen. Lägre nivå betyder större "
+"rubrik."
+
+#: inc/redux-config.php:187 inc/redux-config.php:200
+msgid "Default:"
+msgstr "Standard:"
+
+#: inc/redux-config.php:198
+msgid "Format for the date and time"
+msgstr "Format för datum och tid"
+
+#: inc/redux-config.php:199
+msgid "Set the format for the date and time of last update of the box"
+msgstr ""
+"Sätt formatet för datum och tid som visar när nyhetsboxen senast uppdaterades"
+
+#: inc/redux-config.php:200
+msgid "Read more about formatting date at:"
+msgstr "Läs mer om att formatera datum på:"
+
+#: inc/redux-config.php:207
+msgid "Advanced options"
+msgstr "Avancerade inställningar"
+
+#: inc/redux-config.php:209
+msgid "You'll find advanced options below."
+msgstr "Du hittar avancerade inställningar nedan."
+
+#: inc/redux-config.php:215
+msgid ""
+"If this is turned on, a dashboard widget allowing you to edit the news box "
+"will be created."
+msgstr ""
+"Om denna är påslagen kommer en widget i kontrollpanelen visas, varifrån du "
+"kan redigera nyhetsboxen direkt."
+
+#: inc/redux-config.php:216
+msgid "Show dashboard widget?"
+msgstr "Visa widget i kontrollpanelen?"
+
+#: inc/redux-config.php:217 inc/redux-config.php:227
+msgid "On"
+msgstr "På"
+
+#: inc/redux-config.php:218 inc/redux-config.php:228
+msgid "Off"
+msgstr "Av"
+
+#: inc/redux-config.php:225
+msgid ""
+"If this is turned on, a separate page with the editor for the news box will "
+"be created. Look for it under the menu entry for the Super Simple News Box."
+"<br />Useful if you want to link to editing the news box rather than edit it "
+"in the dashboard."
+msgstr ""
+"Om denna är påslagen kommer en separat sida för att redigera innehållet i "
+"nyhetsboxen att skapas. Kolla efter den under menyvalet för Super Simple "
+"News box.<br />Användbart om du vill länka till att redigera nyhetsboxen "
+"hellre än att redigera den direkt i kontrollpanelen."
+
+#: inc/redux-config.php:226
+msgid "Use separate page for editing?"
+msgstr "Använd separat sida för redigering?"
+
+#: inc/redux-config.php:235
+msgid "Name of menu entry"
+msgstr "Namn på menyvalet"
+
+#: inc/redux-config.php:236
+msgid "The name of the entry in the WordPress menu"
+msgstr "Namnet på menyvalet i WordPress-menyn"
+
+#: inc/redux-config.php:237
+msgid ""
+"This can be useful to edit if you want to clarify what the menu entry does "
+"for your users or clients."
+msgstr ""
+"Denna kan vara bra att redigera om du vill specifiera vad menyvalet gör för "
+"dina användare eller klienter."
+
+#: inc/redux-config.php:245
+msgid "Dashicon for menu"
+msgstr "Dashikon för menyvalet"
+
+#: inc/redux-config.php:246
+msgid "Use this if you want a special dashicon for the menu entry"
+msgstr "Använd denna om du vill ha en specifik dashikon för menyvalet"
+
+#: inc/redux-config.php:247
+msgid ""
+"If you want a native WordPress dashicon instead of the Super Simple News Box "
+"icon, just enter the slug of that dashicon here, like \"dashicons-iconname\"."
+"<br />You can find all available dashicons and their slug at:"
+msgstr ""
+"Om du vill ha en riktig WordPress dashikon till menyvalet, istället för "
+"Super Simple News Box-ikonen, kan du skriva sluggen till den dashikonen här. "
+"Exempel: \"dashicons-iconname\".<br />Du finner alla tillgängiga dashikoner "
+"och deras slugs på:"
+
+#: inc/redux-config.php:256
+msgid "Capability required"
+msgstr "Rättighetskrav"
+
+#: inc/redux-config.php:257
+msgid "The capability required to edit the news box contents"
+msgstr "Rättighetsnivån som krävs för att få ändra nyhetsboxens innehåll"
+
+#: inc/redux-config.php:258
+msgid ""
+"Set the capability required for editing the news box contents here. Use to "
+"restrict access for your clients."
+msgstr ""
+"Sätt rättighetskrav för att kunna ändra nyhetsboxens innehåll här. Använd "
+"för att begränsa åtkomsten för dina klienter."
+
+#: inc/redux-config.php:267
+msgid "Custom CSS Code"
+msgstr "Egen CSS-kod"
+
+#: inc/redux-config.php:268
+msgid "Put your custom CSS code here."
+msgstr "Skriv din egen CSS-kod här."
+
+#: inc/redux-config.php:272
+msgid "Available CSS selectors"
+msgstr "Tillgängliga CSS-selektorer"
+
+#: inc/redux-config.php:273
+msgid "The full container of the newsbox."
+msgstr "Hela behållaren för nyhetsboxen."
+
+#: inc/redux-config.php:274
+msgid "The title of the newsbox."
+msgstr "Titeln på nyhetsboxen"
+
+#: inc/redux-config.php:275
+msgid "The content of the newsbox."
+msgstr "Innehållet i nyhetsboxen."
+
+#: inc/redux-config.php:276
+msgid "The date/time the box was last updated."
+msgstr "Datumet/tiden nyhetsboxen senast uppdaterades."
+
+#: inc/redux-config.php:286
+msgid "Import / Export"
+msgstr "Importera / exportera"
+
+#: inc/redux-config.php:287
+msgid "Import and Export the menu settings from file, text or URL."
+msgstr "Importera och exportera inställningarna från fil, text eller URL."
+
+#: inc/redux-config.php:305
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: inc/redux-config.php:348 inc/widgets.php:126
+msgid "Super Simple News Box"
+msgstr "Nyhetsbox"
+
+#: inc/redux-config.php:349
+msgid "Super Simple News Box Options"
+msgstr "Super Simple News Box inställningar"
+
+#: inc/redux-config.php:430
+msgid ""
+"Welcome to the Super Simple News Box configuration. Configure everything "
+"needed for the newsbox here."
+msgstr ""
+"Välkommen till konfigurationen för Super Simple News Box. Konfigurera allt "
+"du behöver för nyhetsboxen här."
+
+#: inc/redux-config.php:431
+msgid ""
+"Display the news box through using the native WordPress widget available in "
+"<em>Widgets</em>, or the following shortcode:"
+msgstr ""
+"Visa nyhetsboxen antingen genom att använda den inbyggda widgeten som finns "
+"under <em>Widgets</em>, eller genom följade shortcode:"
+
+#: inc/redux-config.php:432
+msgid "The shortcode takes two options:"
+msgstr "Shortcoden tar två inställningar:"
+
+#: inc/redux-config.php:433
+msgid "Sets the title of the widget."
+msgstr "Sätter titeln på widgeten."
+
+#: inc/redux-config.php:434
+msgid "Yes or no. Shows or hides when the box was last updated."
+msgstr "Ja eller nej. Visar eller döljer när nyhetsboxen senast uppdaterades."
+
+#: inc/shortcodes.php:59
+msgid "Last updated"
+msgstr "Senast uppdaterad"
+
+#: inc/widgets.php:54
+msgid "Press the button below to show the editor."
+msgstr "Tryck på knappen nedan för att visa redigeraren."
+
+#: inc/widgets.php:55
+msgid "Show editor"
+msgstr "Visa redigerare"
+
+#: inc/widgets.php:58
+msgid "Succeeded in updating the news box!"
+msgstr "Innehållet i nyhetsboxen uppdaterat!"
+
+#: inc/widgets.php:75
+msgid "Update newsbox"
+msgstr "Uppdatera nyhetsbox"
+
+#: inc/widgets.php:106
+msgid "Newsbox"
+msgstr "Nyhetsbox"
+
+#: inc/widgets.php:127
+msgid "Add our super simple news box."
+msgstr "Lägg till vår supersimpla nyhetsbox."
+
+#: inc/widgets.php:195
+msgid "Title of widget"
+msgstr "Titel på widgeten"
+
+#: inc/widgets.php:196
+msgid "Set the title of the widget."
+msgstr "Sätt titeln på widgeten."
+
+#: inc/widgets.php:199
+msgid "Show when the box was last updated?"
+msgstr "Visa när nyhetsboxen senast uppdaterades?"
+
+#: inc/widgets.php:200
+msgid "Do you want to show when the box was last updated?"
+msgstr "Vill du visa när nyhetsboxen senast uppdaterades?"
+
+#: inc/widgets.php:202
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/widgets.php:203
+msgid "No"
+msgstr "Nej"
+
+#: inc/widgets.php:206
+msgid "HTML before content"
+msgstr "HTML före innehåll"
+
+#: inc/widgets.php:207
+msgid "Add HTML you want <em>before</em> the content here."
+msgstr "Lägg till den HTML du vill ha <em>innan</em> innehållet här."
+
+#: inc/widgets.php:210
+msgid "HTML after content"
+msgstr "HTML efter innehåll"
+
+#: inc/widgets.php:211
+msgid "Add HTML you want <em>after</em> the content here."
+msgstr "Lägg till den HTML du vill ha <em>efter</em> innehållet här."
+
+#~ msgid "Edit the contents of your news box here."
+#~ msgstr "Redigera innehållet i din nyhetsbox här."

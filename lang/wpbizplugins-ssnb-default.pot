@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPBizPlugins Super Simple News Box\n"
+"POT-Creation-Date: 2014-06-05 11:51+0100\n"
+"PO-Revision-Date: 2014-06-05 11:51+0100\n"
+"Last-Translator: Gabriel Nordeborn <gabriel@wpbizplugins.com>\n"
+"Language-Team: WPBizPlugins <gabriel@wpbizplugins.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: inc\n"
+
+#: inc/redux-config.php:159
+msgid "Main configuration"
+msgstr ""
+
+#: inc/redux-config.php:160
+msgid ""
+"Configure the Super Simple News Box. Please contact <a href=\"mailto:"
+"support@wpbizplugins.com\">support@wpbizplugins.com</a> if you need further "
+"assistance."
+msgstr ""
+
+#: inc/redux-config.php:173
+msgid "Introductory text"
+msgstr ""
+
+#: inc/redux-config.php:174
+msgid ""
+"Explanatory and introductory text in the dashboard widget, shown together "
+"with the editor for the newsbox."
+msgstr ""
+
+#: inc/redux-config.php:175
+msgid ""
+"You can edit the contents of your news box here. <strong>The news box will "
+"be hidden if you leave the content empty</strong>."
+msgstr ""
+
+#: inc/redux-config.php:185
+msgid "Headline level"
+msgstr ""
+
+#: inc/redux-config.php:186
+msgid ""
+"Control the level of the headline for the news box. Smaller means bigger "
+"headline."
+msgstr ""
+
+#: inc/redux-config.php:187 inc/redux-config.php:200
+msgid "Default:"
+msgstr ""
+
+#: inc/redux-config.php:198
+msgid "Format for the date and time"
+msgstr ""
+
+#: inc/redux-config.php:199
+msgid "Set the format for the date and time of last update of the box"
+msgstr ""
+
+#: inc/redux-config.php:200
+msgid "Read more about formatting date at:"
+msgstr ""
+
+#: inc/redux-config.php:207
+msgid "Advanced options"
+msgstr ""
+
+#: inc/redux-config.php:209
+msgid "You'll find advanced options below."
+msgstr ""
+
+#: inc/redux-config.php:215
+msgid ""
+"If this is turned on, a dashboard widget allowing you to edit the news box "
+"will be created."
+msgstr ""
+
+#: inc/redux-config.php:216
+msgid "Show dashboard widget?"
+msgstr ""
+
+#: inc/redux-config.php:217 inc/redux-config.php:227
+msgid "On"
+msgstr ""
+
+#: inc/redux-config.php:218 inc/redux-config.php:228
+msgid "Off"
+msgstr ""
+
+#: inc/redux-config.php:225
+msgid ""
+"If this is turned on, a separate page with the editor for the news box will "
+"be created. Look for it under the menu entry for the Super Simple News Box."
+"<br />Useful if you want to link to editing the news box rather than edit it "
+"in the dashboard."
+msgstr ""
+
+#: inc/redux-config.php:226
+msgid "Use separate page for editing?"
+msgstr ""
+
+#: inc/redux-config.php:235
+msgid "Name of menu entry"
+msgstr ""
+
+#: inc/redux-config.php:236
+msgid "The name of the entry in the WordPress menu"
+msgstr ""
+
+#: inc/redux-config.php:237
+msgid ""
+"This can be useful to edit if you want to clarify what the menu entry does "
+"for your users or clients."
+msgstr ""
+
+#: inc/redux-config.php:245
+msgid "Dashicon for menu"
+msgstr ""
+
+#: inc/redux-config.php:246
+msgid "Use this if you want a special dashicon for the menu entry"
+msgstr ""
+
+#: inc/redux-config.php:247
+msgid ""
+"If you want a native WordPress dashicon instead of the Super Simple News Box "
+"icon, just enter the slug of that dashicon here, like \"dashicons-iconname\"."
+"<br />You can find all available dashicons and their slug at:"
+msgstr ""
+
+#: inc/redux-config.php:256
+msgid "Capability required"
+msgstr ""
+
+#: inc/redux-config.php:257
+msgid "The capability required to edit the news box contents"
+msgstr ""
+
+#: inc/redux-config.php:258
+msgid ""
+"Set the capability required for editing the news box contents here. Use to "
+"restrict access for your clients."
+msgstr ""
+
+#: inc/redux-config.php:267
+msgid "Custom CSS Code"
+msgstr ""
+
+#: inc/redux-config.php:268
+msgid "Put your custom CSS code here."
+msgstr ""
+
+#: inc/redux-config.php:272
+msgid "Available CSS selectors"
+msgstr ""
+
+#: inc/redux-config.php:273
+msgid "The full container of the newsbox."
+msgstr ""
+
+#: inc/redux-config.php:274
+msgid "The title of the newsbox."
+msgstr ""
+
+#: inc/redux-config.php:275
+msgid "The content of the newsbox."
+msgstr ""
+
+#: inc/redux-config.php:276
+msgid "The date/time the box was last updated."
+msgstr ""
+
+#: inc/redux-config.php:286
+msgid "Import / Export"
+msgstr ""
+
+#: inc/redux-config.php:287
+msgid "Import and Export the menu settings from file, text or URL."
+msgstr ""
+
+#: inc/redux-config.php:305
+msgid "Documentation"
+msgstr ""
+
+#: inc/redux-config.php:348 inc/widgets.php:126
+msgid "Super Simple News Box"
+msgstr ""
+
+#: inc/redux-config.php:349
+msgid "Super Simple News Box Options"
+msgstr ""
+
+#: inc/redux-config.php:430
+msgid ""
+"Welcome to the Super Simple News Box configuration. Configure everything "
+"needed for the newsbox here."
+msgstr ""
+
+#: inc/redux-config.php:431
+msgid ""
+"Display the news box through using the native WordPress widget available in "
+"<em>Widgets</em>, or the following shortcode:"
+msgstr ""
+
+#: inc/redux-config.php:432
+msgid "The shortcode takes two options:"
+msgstr ""
+
+#: inc/redux-config.php:433
+msgid "Sets the title of the widget."
+msgstr ""
+
+#: inc/redux-config.php:434
+msgid "Yes or no. Shows or hides when the box was last updated."
+msgstr ""
+
+#: inc/shortcodes.php:59
+msgid "Last updated"
+msgstr ""
+
+#: inc/widgets.php:54
+msgid "Press the button below to show the editor."
+msgstr ""
+
+#: inc/widgets.php:55
+msgid "Show editor"
+msgstr ""
+
+#: inc/widgets.php:58
+msgid "Succeeded in updating the news box!"
+msgstr ""
+
+#: inc/widgets.php:75
+msgid "Update newsbox"
+msgstr ""
+
+#: inc/widgets.php:106
+msgid "Newsbox"
+msgstr ""
+
+#: inc/widgets.php:127
+msgid "Add our super simple news box."
+msgstr ""
+
+#: inc/widgets.php:195
+msgid "Title of widget"
+msgstr ""
+
+#: inc/widgets.php:196
+msgid "Set the title of the widget."
+msgstr ""
+
+#: inc/widgets.php:199
+msgid "Show when the box was last updated?"
+msgstr ""
+
+#: inc/widgets.php:200
+msgid "Do you want to show when the box was last updated?"
+msgstr ""
+
+#: inc/widgets.php:202
+msgid "Yes"
+msgstr ""
+
+#: inc/widgets.php:203
+msgid "No"
+msgstr ""
+
+#: inc/widgets.php:206
+msgid "HTML before content"
+msgstr ""
+
+#: inc/widgets.php:207
+msgid "Add HTML you want <em>before</em> the content here."
+msgstr ""
+
+#: inc/widgets.php:210
+msgid "HTML after content"
+msgstr ""
+
+#: inc/widgets.php:211
+msgid "Add HTML you want <em>after</em> the content here."
+msgstr ""
